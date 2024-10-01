@@ -12,3 +12,4 @@ Tool to generate tracked time data from [Toggl](https://toggl.com/) Detailed rep
   dotnet toggl-timesheet.dll <toggl_csv_detailed_report_file>
   ```
 - Output timesheet data is written to `out.csv` file (this will be parameterized in the next version)
+
